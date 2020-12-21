@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c11d89afb860048aea8fa97c2d1a6e, type: 3}
+  m_Name: Level 8
+  m_EditorClassIdentifier: 
+  LevelName: 8
+  Walls:
+  - {fileID: 1247479428698162, guid: 9531d94803db311419f0f9b7d8e3fce7, type: 2}
+  - {fileID: 1808726507742964, guid: 0f7b7641819e8ad45ab9786f3fca263f, type: 2}
+  - {fileID: 1823368214651938, guid: b9fb713e8c633e14ab0f1d239eb9b2e3, type: 2}
+  LevelWall: {fileID: 1619225366268550, guid: 092435b88aec2424c99256ef9dd22600, type: 2}
+  Speed: 8.5
+  isTrainerAllowed: 0
+  StarsToUnlock: 10
+  Locked: 1
+  Achievement: {fileID: 11400000, guid: cb8a67902acdad24f8c7296b0364a1e9, type: 2}
+  AdventureTitle: {fileID: 0}
+  NoOfWallsToTrain: 0
+  count: 45
+  wallLimit: 45
+  WinnerWall: {fileID: 1181668095149526, guid: d034e7a3cf79fcb48be3de889bd78c0a, type: 2}
+  isLoadStatic: 1
+  WallMovementSpeed: 3

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffbf74bd0596a9b469fc8f781468f94e, type: 3}
+  m_Name: StorePriceSO
+  m_EditorClassIdentifier: 
+  StorePrices:
+  - storeObject: 1
+    PurchaseUsingGem: 1
+    Price: 25
+    Description: Rain washes away the colors over your eyes and Color Balls turn colorless
+    Image: {fileID: 21300000, guid: 4de7e3f9b050c40429966c2356addc7e, type: 3}
+    NoBgImage: {fileID: 21300000, guid: 27ad7ecec6ecee240a06b49ce723c431, type: 3}
+  - storeObject: 2
+    PurchaseUsingGem: 1
+    Price: 50
+    Description: Snipers turn so good and shoots you a gift when a Magic Wand is used.
+    Image: {fileID: 21300000, guid: d9760173b86104744bc3efc89c93a009, type: 3}
+    NoBgImage: {fileID: 21300000, guid: a9930351fedc9e7429901b3abea015a0, type: 3}
+  - storeObject: 3
+    PurchaseUsingGem: 1
+    Price: 75
+    Description: Avenge the Snipers by shooting them back using the Mud Gun.
+    Image: {fileID: 21300000, guid: ee2c1fc682587ab45837a18237f648d3, type: 3}
+    NoBgImage: {fileID: 21300000, guid: eed825b6bc6cbb44e88df8e870da73b8, type: 3}
+  - storeObject: 4
+    PurchaseUsingGem: 1
+    Price: 100
+    Description: Your friend Witch helps you with Window closing.
+    Image: {fileID: 21300000, guid: 25effc9eb253df149b7785565d52d017, type: 3}
+    NoBgImage: {fileID: 21300000, guid: 3af414dc34efaad43b2122a59b569acf, type: 3}
+  - storeObject: 5
+    PurchaseUsingGem: 1
+    Price: 25
+    Description: Protect yourself using shield for 3 attacks.
+    Image: {fileID: 21300000, guid: 4bfafb13999169b4c9c5bd848f29eada, type: 3}
+    NoBgImage: {fileID: 21300000, guid: ddb0608f42cddbf4e9df1d1e68947551, type: 3}
+  - storeObject: 6
+    PurchaseUsingGem: 0
+    Price: 1
+    Description: 
+    Image: {fileID: 0}
+    NoBgImage: {fileID: 0}

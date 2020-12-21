@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c11d89afb860048aea8fa97c2d1a6e, type: 3}
+  m_Name: Level 16
+  m_EditorClassIdentifier: 
+  LevelName: 16
+  Walls:
+  - {fileID: 1247479428698162, guid: 9531d94803db311419f0f9b7d8e3fce7, type: 2}
+  - {fileID: 1808726507742964, guid: 0f7b7641819e8ad45ab9786f3fca263f, type: 2}
+  - {fileID: 1823368214651938, guid: b9fb713e8c633e14ab0f1d239eb9b2e3, type: 2}
+  - {fileID: 1372909479958198, guid: 382c1bb421c23e54db1809632914e102, type: 2}
+  - {fileID: 1691425069942452, guid: 2e3288527fb1f6349ba11db8d8cce4cb, type: 2}
+  LevelWall: {fileID: 1647159391465232, guid: e7dcc667b5b3e864ba56db6220eb80e4, type: 2}
+  Speed: 11.25
+  isTrainerAllowed: 0
+  StarsToUnlock: 30
+  Locked: 1
+  Achievement: {fileID: 11400000, guid: 1fb349760ee4d0d40aab17e9bbf5b1dd, type: 2}
+  AdventureTitle: {fileID: 21300000, guid: 42fd6f71e5b4c1b4a940843f037c22e1, type: 3}
+  NoOfWallsToTrain: 0
+  count: 40
+  wallLimit: 85
+  WinnerWall: {fileID: 1181668095149526, guid: d034e7a3cf79fcb48be3de889bd78c0a, type: 2}
+  isLoadStatic: 1
+  WallMovementSpeed: 1
